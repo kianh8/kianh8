@@ -1,0 +1,80 @@
+who	personal	Sébastien Genty
+mail	personal	sgenty@me.com
+number	personal	713-301-5648
+location	personal	1209 Page St, Apt 7, San Francisco, CA 94117
+header	experience	Work Experience
+what	experience	Project Director
+where	experience	Socratic Technologies
+date	experience	September 2012 - Present
+content	experience	•  Collaborate with clients to plan, construct, and execute surveys for collecting
+content	experience	insightful data on their business and marketing needs
+content	experience	•  Explore data using advanced mathematical and statistical methods, in order to
+content	experience	identify insights and trends
+content	experience	•  Visualize data and extract insights for client facing deliverables
+content	experience	•  Create market simulators using highly customized applications that incorporate post
+content	experience	survey analytical results to predict comparative sales figures and market share
+content	experience	•  Manage the data collection process by allocating resources, overseeing workflow, and
+content	experience	verifying quality data collection
+content	experience	•  Formulated and built a new survey tool that increased statistical variance in
+content	experience	respondent data, currently in use for multiple clients
+content	experience	•  Established a new model to test the reach, appeal and effectiveness of advertisements
+date	experience	Fall 2011 - Spring 2012
+what	experience	Research Assistant
+where	experience	Bucknell University
+content	experience	•  Independently designed and built an optical set-up to take pictures of Bose-Einstein
+content	experience	condensates
+content	experience	experiment
+content	experience	•  Created a user interface to control a high-end camera using Visual Basic
+content	experience	•  Coordinated with other research assistants working on different aspects of the same
+content	experience	•  Computer model and data analysis done using Matlab and ImageJ
+what	experience	Research Intern
+where	experience	MD Anderson Cancer Center
+date	experience	Summer 2011
+content	experience	•  Researched CT dosiometry using a relatively new technique involving x-ray sensitive
+content	experience	film
+content	experience	•  Analyzed data using Matlab and Mathematica
+header	others	Relevant Projects
+what	others	New Product Development
+content	others	•  Computed ideal product configuration by creating a market
+content	others	simulator using conjoint analysis
+what	others	Purchase Process Identification
+content	others	•  Identified patterns in the purchase process of mortgages using a
+content	others	client provided database and formed insights about the timing and
+content	others	effectiveness of marketing materials
+what	others	Customer Feedback
+content	others	•  Analyzed users’ opinions and knowledge of recently released
+content	others	version of leading media player and distribution platform
+what	others	Bay Area Bike Share Open Data Challenge
+content	others	•  Uncovered habits and behavior of riders using an open source
+content	others	dataset and currently developing a visualization of bike station
+content	others	usage
+header	education	Education
+where	education	Bucknell University
+location	education	Lewisburg, PA
+date	education	Graduated May 2012
+what	education	B.S. Physics
+content	education	Minor: International Relations
+content	education	International Leadership Scholarship
+header	languages	Languages
+content	languages	English
+content	languages	French
+content	languages	Spanish
+content	languages	German
+header	knowledge	Skills
+content	knowledge	Computer
+content	knowledge	R
+content	knowledge	Python
+content	knowledge	SPSS
+content	knowledge	Mathematica
+content	knowledge	Matlab
+content	knowledge	Javascript
+content	knowledge	C++
+content	knowledge	SQL
+content	knowledge	Unix
+content	knowledge	Adobe Creative Suite
+content	knowledge	Microsoft Office
+header	others	Interests
+content	others	Film and digital photography
+content	others	physics, research, reading, video
+content	others	games, solving problems and fixing
+content	others	things

@@ -1,0 +1,58 @@
+location	personal	Address: 18 place Raoul Follereau, 75010 Paris
+content	personal	Nationality: French
+mail	personal	victor.lecoz@gmail.com
+number	personal	+33 6 77 45 39 72
+content	personal	Sex: male
+content	personal	Date of birth: 11/01/1988
+who	personal	Victor Le Coz
+header	experience	WORK EXPERIENCE
+date	experience	From August 2017 to present
+what	experience	Quantitative models senior inspector – Inspection Générale
+where	experience	BNP Paribas
+location	experience	Paris, France
+content	experience	▪ Analysis and review of pricing models, trading systematic strategies, and risk measurement models
+content	experience	▪ Management of a team of 3/4 engineers in quantitative finance
+date	experience	From May 2014 to August 2017
+what	experience	Economist – Stress testing team
+where	experience	European Central Bank
+location	experience	Frankfurt, Germany
+content	experience	▪ Design of models for projecting balance sheets and revenues of European banks under various
+content	experience	macroeconomic scenarios
+content	experience	▪ Development of the European banking regulations on stress testing
+content	experience	▪ Programming of a stress test infrastructure supporting the big data used for modelling purposes
+date	experience	From October 2012 to May 2014
+what	experience	Researcher – Risk modelling
+where	experience	Banque de France – Autorité de contrôle prudentiel et de résolution (ACPR)
+location	experience	Paris, France
+content	experience	▪ Review and validation of risk measurement models used by French banks
+date	experience	From April 2012 to September 2012
+what	experience	Intern – Valuation of exotic interest rate derivatives
+where	experience	HSBC
+location	experience	Paris, France
+content	experience	▪ Design of model risk reserves for rates exotic products valuation models
+date	experience	From September 2010 to July 2011
+what	experience	Intern – Junior consultant
+where	experience	Cylad Consulting
+location	experience	Paris, France
+content	experience	▪ Strategy consulting missions
+header	education	EDUCATION AND TRAINING
+date	education	From September 2008 to September 2012
+what	education	Diplôme d'ingénieur (equivalent to M.Sc.) in quantitative finance
+where	education	ENSTA ParisTech
+location	education	Paris
+content	education	▪ Stochastic calculus, Risk measures, Statistics, Time series forecasting
+content	education	▪ Financial analysis, Accountancy, Law, Micro and Macroeconomics
+date	education	From September 2011 to September 2012
+what	education	Master of Science in Economics and Finance (MMMEF)
+where	education	University Paris 1 Panthéon-Sorbonne
+location	education	Paris
+content	education	▪ Extreme values theory, Arbitrage pricing theory, Yield curve models, Microeconomics
+date	education	From September 2006 to June 2008
+what	education	Preparatory class MPSI/MP*
+where	education	High school Chateaubriand
+location	education	Rennes, France
+header	knowledge	PERSONAL SKILLS
+header	languages	Language competences
+content	languages	French: Mother tongue
+content	languages	English: Proficient user (bright test level 5/5)
+content	knowledge	Programming skills in Python, R and C++

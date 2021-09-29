@@ -1,0 +1,56 @@
+who	personal	Layla Martin
+location	personal	2038 McAllister St
+location	personal	San Francisco, CA 94118
+mail	personal	layla.d.martin@gmail.com (520) 271-2492
+header	education	EDUCATION
+header	education	AND AWARDS
+what	education	Master of Science in Analytics
+where	education	University of San Francisco
+content	education	
+location	experience	San Francisco, CA
+what	education	Bachelor of Science in Mathematics
+where	education	University of San Francisco
+content	education	Cum Laude
+content	education	Dean’s Honor Role (4 years)
+content	education	University Scholar, USF’s highest academic scholarship (4 years)
+date	education	Expected June 2015
+date	education	May 2014
+header	others	SELECTED
+header	others	PROJECTS
+what	others	Sentiment Analysis using Naive-Bayes
+where	others	Graduate
+content	others	• Classiﬁed movie reviews as positive or negative with 75% accuracy by implementing a
+content	others	Naive-Bayes algorithm in Python.
+what	others	NBA Play-By-Play Data Cleaning
+where	others	Summer research with USF Faculty
+content	others	• Cleaned play-by-play data for every NBA game from 2006 to 2012 using Pandas (Python).
+content	others	Analysis of USF Men’s Basketball Statistics using R
+where	others	Undergraduate
+content	others	• Predicted importance of players on the court using simple and multiple linear regression
+content	others	and created visualizations of player statistics using R.
+what	others	Explaining Artiﬁcial Neural Networks (ANN)
+where	others	Undergraduate
+content	others	• Prepared two student lectures teaching classmates basic implementation and theory behind
+content	others	supervised learning, backpropagation, and pattern recognition with ANN.
+content	others	• Preprocessed ﬁngerprint images as matrices in Matlab and performed pattern classiﬁcation
+content	others	using an ANN program.
+what	others	Mathematical Modeling Research
+where	others	Undergraduate
+content	others	• Performed image compression with SVD implemented in Matlab.
+content	others	• Ranked West Coast Conference Men’s Basketball teams using multiple centrality ranking
+content	others	algorithms in Matlab.
+header	others	LEADERSHIP
+content	others	President, Pi Mu Epsilon National Math Honor Society
+content	others	Captain, USF Women’s Soccer
+content	others	Teacher’s Assistant, USF Astronomy Observations
+date	others	2014
+date	others	2013-2014
+date	others	2013-2014
+header	knowledge	SKILLS
+content	knowledge	Python, R, MySQL, PostgreSQL, Matlab, LaTeX, JMP
+header	others	INTER-
+header	others	COLLEGIATE
+header	others	ATHLETICS
+what	others	NCAA Division I Women’s Soccer: USF, 2010-2014
+content	others	• Athletic scholarship (full scholarship when combined with University Scholarship).
+content	others	• Committed 30 hours per week to training, meetings, travel, competition.

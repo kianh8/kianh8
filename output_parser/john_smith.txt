@@ -1,0 +1,60 @@
+mail	personal	2222 McCoy Road     Columbus, Ohio 44444    614-555-5555    sresume@kent.edu  www.linkedin.com/in/name
+header	others	OBJECTIVE
+content	others	Seeking a marketing internship with ABC Company in Spring 2017 to utilize my organizational and analytical skills.
+header	education	EDUCATION
+what	education	Bachelor of Business Administration
+where	education	Kent State University
+content	education	Major: Business Management
+header	education	SIGNIFICANT COURSEWORK
+content	education	Business Finance, Principles of Management, Legal Environment of Business
+header	knowledge	COMPUTER SKILLS
+content	knowledge	Microsoft Office: Word, PowerPoint, and basic Excel
+content	knowledge	Applications: SQL (Structure Query Language)
+content	knowledge	Programs: Adobe Photoshop, Movie Maker
+content	others	Social Media Administration: LinkedIn, Twitter, Instagram, Facebook
+header	experience	WORK EXPERIENCE
+where	experience	Kent State University, Kent, Ohio
+what	experience	Resident Advisor
+content	experience	•  Collaborate with 10 building staff and campus administrators on a weekly basis to organize a pancake breakfast
+content	others	Expected Graduation: May 2018
+location	others	Kent, Ohio
+content	others	GPA: 3.6
+date	experience	August 2015 - Present
+what	experience	fundraiser for 200 attendees, raising $500 for community charity.
+content	experience	•  Utilize effective time management skills by creating and implementing 6 programs and activities each semester for 30
+content	experience	residents while balancing full-time course load and extracurricular commitments.
+content	experience	•  Demonstrate strong communication skills through interacting with 150 residents and campus administrators on a
+content	experience	weekly basis.
+who	personal	John Smith
+content	experience	•  Facilitate problem-solving and conflict resolution amongst residents by serving as positive role model, mediator, and
+content	experience	leader through one-on-one and small group interventions.
+where	experience	Panini’s Bar and Grill, Cleveland, Ohio
+what	experience	Server
+content	experience	•  Worked independently in a fast-paced environment while developing customer service skills with each guest to ensure
+date	experience	August 2014 - May 2015
+content	experience	their needs were consistently met.
+date	experience	July 2014 - October 2015
+content	experience	•  Optimized persuasive skills to highlight nightly specials and engage each table’s attention.
+content	experience	•  Fostered cooperation within a staff of 7 to maintain a pleasant atmosphere.
+header	others	LEADERSHIP EXPERIENCE
+where	others	Harding Middle School, Columbus, Ohio
+what	others	Soccer Assistant Coach
+content	others	•  Executed strong communication skills by guiding and leading 20 seventh and eighth grade girls on team.
+content	others	•  Served as positive role model by teaching young athletes about teamwork, respect, and conflict-resolution.
+content	others	•  Planned and led weekly meetings with up to 15 parents, field managers and staff members.
+content	others	•  Led team to its first regional championship in October 2015; recognized at school banquet with leadership award.
+header	others	CAMPUS INVOLVEMENT
+content	others	Member, Delta Sigma Pi
+content	others	Member, Collegiate Business Association
+header	others	VOLUNTEER EXPERIENCE
+content	others	Relay for Life, Kent State University
+content	others	Donation Processer, Greater Cleveland Food Bank
+header	others	HONORS
+what	others	Summit County Alumni Association Scholarship
+content	others	Dean’s List
+date	others	March 2015
+date	others	December 2014 - February 2015
+date	others	Spring 2014 - Present
+date	others	Spring 2013 - Spring 2015
+date	others	August 2016 - Present
+date	others	August 2015 - Present

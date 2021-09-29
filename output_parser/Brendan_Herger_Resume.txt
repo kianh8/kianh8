@@ -1,0 +1,64 @@
+who	personal	Brendan Herger
+mail	personal	13herger@gmail.com 
+number	personal	+ 1 (415) 582-7457
+where	personal	1209 Page Street No. 7 San Francisco, Ca 94117
+header	experience	Selected Experience
+what	experience	Data Scientist
+where	experience	Data Innovation Lab @ Capital One (San Francisco, Ca.)
+when	experience   	06/15 - Now
+content	experience	Lead research team modeling for fraud problem space with class
+content	experience	imbalance & adversaries; H2O.ai, GraphLab, SKLearn
+content	experience	Deployed sub-millisecond real time model; Apache Apex
+content	experience	Recommended distributed machine learning frameworks for general
+content	experience	adoption at Capital One; H2O.ai, GraphLab, Apache Spark
+header	experience	Various Technical Positions
+where	experience	Lawfty (San Francisco, Ca.), 
+what	experience	RevUp Software (Redwood City, Ca.),
+where	experience	Perkins + Will Architecture (San Francisco, Ca.) & Lawrence Berkeley
+where	experience	National Lab. (Berkeley, Ca.)
+what	experience	Front End Supervisor
+where	experience	The Home Depot Pro (Colma, Ca.)                                        05/11 - 03/13
+what	experience	Positions held: Cashier, Special Services Assoc., Tool Rental Assoc.
+content	experience	Supervised and trained a staff of 10-30 team members
+header	education	Education
+what	education	MS, Analytics
+where	education	University of San Francisco, July 2015
+content	education	Relevant Coursework: Machine Learning, Adv. Machine Learning, Data
+content	education	Acquisition, Exploratory Data Analysis, Relational Databases, NoSQL
+content	education	Databases, Linear Regression Analysis, Time Series Analysis, Intro. SAS
+content	education	BS, Physics
+where	education	University of San Francisco, May 2014
+what	education	Minors: Computer Sciences, Mathematics
+content	education	Honors: University Scholar, President of ΠΜΕ Math Honors Society
+content	education	Relevant Coursework: Software Development, Data Structures &
+content	education	Algorithms, Differential Eqn.’s, Linear Algebra, Graduate Econometrics
+header	others	Personal Projects
+content	others	Identified genre of Billboard
+content	others	Hot 100 songs using ensemble
+content	others	algorithm built with Support
+content	knowledge	Vector Machine, Neural Network,
+content	knowledge	Stochastic Gradient Boost, and
+content	knowledge	Random Forest  algorithms;
+content	knowledge	Python, Pandas, R and Scikit-Learn
+content	others	Implemented Naive Bayes text
+content	others	classification algorithm and trained
+content	others	this algorithm to correctly label
+content	others	83% of movie reviews; Python,
+content	knowledge	numpy and Pandas
+content	others	Created database containing lyrics
+content	others	of Billboard Hot 100 songs since
+content	knowledge	1958; R, Python, Pandas and
+content	knowledge	Beautiful Soup 4
+content	others	Built a multi-threaded web scraper
+content	others	and search engine with web
+content	knowledge	user interface; Java, MySQL and
+content	knowledge	HTML5/CSS
+content	others	Built resume parsing package
+content	others	which extracts text, finds contact
+content	others	details, and checks for required
+content	others	keywords; Python and Pandas
+content	others	Online
+content	others	Hergertarian.com
+content	others	github.com/bjherger
+content	others	linkedin.com/in/bjherger
+content	others	hergertarian.wordpress.com/

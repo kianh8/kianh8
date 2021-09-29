@@ -1,0 +1,49 @@
+who	personal	MONICA MEYER
+mail	personal	(415) · 497 · 7282 (cid:5) monica.meyer@comcast.net
+date	education	Expected June 2015
+date	education	July 2012
+date	others	Sep 2014
+date	others	July 2014
+date	experience	Dec 2013 - June 2014
+location	personal	Mill Valley, CA
+header	education	EDUCATION
+what	education	Master of Science in Analytics
+where	education	University of San Francisco
+content	education	
+what	education	Bachelor of Arts in Mathematics
+where	education	University of California
+location	education	Santa Cruz
+content	education	Overall GPA: 3.5
+header	others	COURSE PROJECTS
+what	others	Business Location Recommendation
+what	others	Text Classiﬁcation
+content	others	on XML ﬁles in Python.
+header	experience	WORK EXPERIENCE
+where	experience	Bank of America
+what	experience	Sales and Service Specialist
+location	experience	Mill Valley, CA
+content	others	· Queried Yelp and Zillow APIs and performed exploratory data analysis necessary for project to help
+content	others	businesses decide where to open their next establishment.
+content	others	· Classiﬁed movie reviews as positive or negative using Naive Bayes in Python.
+content	others	· Found most important words in Reuter’s articles through term frequency, inverse document frequency
+content	experience	· Promoted due to proven ability to resolve complex service issues and process transactions accurately
+content	experience	and eﬃciently to guarantee customer satisfaction and build customer conﬁdence and trust. Responsible
+content	experience	for establishing, retaining and deepening relationships with customers to achieve team sales goals as
+content	experience	well as providing proactive sales activities of basic products while referring more complex requests such
+content	experience	as mortgages and investment products.
+where	experience	Bank of America
+what	experience	Teller
+date	experience	Aug 2012 - Dec 2013
+location	experience	Mill Valley, CA
+content	experience	· Gained proﬁciency in retail banking operations, including computing ﬁgures, processing transactions
+content	experience	with speed and accuracy and building customer loyalty through exceptional customer service. Learned
+content	experience	to control large amounts of cash ﬂow, work within established policies, procedures and guidelines and
+content	experience	acquired the ability to advise customers on products and services the bank has to oﬀer. Earned a
+content	experience	promotion to the position of Sales and Service Specialist.
+header	knowledge	SKILLS
+content	knowledge	Programming
+content	knowledge	Protocols & APIs
+content	knowledge	Databases
+content	knowledge	Python, R
+content	knowledge	XML, JSON, REST
+content	knowledge	MySQL, PostgreSQL

@@ -1,0 +1,93 @@
+who	personal	Michel EL KIK
+number	personal	+33 6 03 09 54 85
+mail	personal	michel.elkik@edu.escp.eu
+location	personal	Paris, France
+header	personal	PERSONAL STATEMENT
+personal statement	personal	Trilingual, MSc holder in Big Data & Business Analytics with a B.E. in Mechanical Engineering,
+personal statement	personal	and  one  year  of  experience  in  electronics,  cloud,  and  data-driven  solutions.  Looking  for  a
+personal statement	personal	challenging  opportunity  to  apply  my  engineering  mindset  &  software  skills  with  business-
+personal statement	personal	oriented thinking, thus approaching digitalization challenges from multiple perspectives.
+header	education	EDUCATION
+where	education	ESCP Business School
+what	education	MSc in Big Data and Business Analytics
+content	education	•  Research Paper – Cybersecured Connected Vehicles for ADAS driving.
+content	education	•  IEEE Publication – IoT Based Blockchain for the Pharmaceutical Supply Chain.
+content	education	•  Performed end-to-end Machine Learning algorithms and assessed their performances for optimal.
+content	education	•  Thesis – Design Science Research of a Cooperative Perception Map for a Network Monitoring System.
+where	education	Notre Dame University (H+)
+what	education	Bachelor of Engineering en Mechanical Engineering (FH)
+content	education	•  Dean's List Fall 2015 & Fall 2017.
+content	education	•  Team Coordinator - Fourth Place in VEX Robotics Competition.
+content	education	•  ABB robotic arm set up using Matlab/Simulink for university open doors.
+header	experience	PROFESSIONAL EXPERIENCES
+where	experience	Murex
+what	experience	Data Engineer & Analytics Assistant
+content	experience	•  Automation of log data extraction using data mining techniques by monitoring quality.
+content	experience	•  Pre-processing of raw data migration in an ecosystem of 1000 client servers with Big Data tools.
+content	experience	•  Interacted with APIs to retrieve and integrate requested cloud data in a high-volume environment.
+content	experience	•  Designed visualization dashboards by linking product requirements and results to business needs.
+content	experience	•  Developed and deployed a scalable ETL data pipeline to acquire metrics for software product monitoring.
+where	experience	BMB
+what	experience	Robotics Instructor
+content	experience	•  Taught mechatronics fundamentals and built robots with Python-based microcontrollers.
+content	experience	•  Designed courses with Arduino, C++ based, and efficiently executed robotics and engineering concepts.
+where	experience	Deloitte
+what	experience	Business Analyst
+content	experience	•  Delivered a market-entry feasibility study for a company in the pharmaceutical industry.
+content	experience	•  Performed mapping & reengineering of business strategies that conform to client requirements.
+where	experience	International Education Association
+what	experience	Project Team Lead
+content	experience	•  Created a 3D CAD design of a Star Wars robot and built it from scratch.
+content	experience	•  Evaluated the efficiency, quality, speed, and livable services of different teams.
+where	experience	Lamborghini, Volvo & Porsche
+what	experience	Mechanical Engineer
+content	experience	•  Structured and organized a 4,000 spare-part department inventory.
+content	experience	•  Gained knowledge in control module connections and troubleshooting.
+content	experience	•  Applied diagnostics repairs for the required services on customer vehicles.
+header	others	CERTIFICATIONS
+where	others	University of Toronto
+what	others	Introduction to Self-Driving Cars
+content	others	•  Self-Driving Hardware & Software Architectures with Autonomous Driving Perception.
+header	others	EXTRACURRICURAL ACTIVITIES
+where	others	Les Scouts du Liban
+what	others	Assistant Chef de Groupe
+content	others	•  Managing and motivating a scout group of 80 members.
+content	others	•  Organizing and preparing fundraising events and summer camps.
+header	others	Sports and Hobbies
+content	others	•  Adventurer and camping enthusiast.
+content	others	•  Professional Photographer (Astrophotography, Light Painting, Image Processing).
+content	other	MichelElKik
+header	knowledge	Competences
+content	knowledge	SQL
+content	knowledge	GCP
+content	knowledge	HTML
+content	knowledge	Tableau
+content	knowledge	Git
+content	knowledge	Linux
+content	knowledge	Python
+content	knowledge	ML/DL
+header	languages	Languages
+content	languages	English: C2
+content	languages	German: A1
+content	languages	French: B2
+content	languages	Arabic: C2
+date	education	2019-2020
+location	education	Paris
+date	education	2013-2018
+location	education	Beirut
+date	experience	10/2020-03/2021
+location	experience	Paris
+date	experience	06/2019-08/2019
+location	experience	Beirut
+date	experience	12/2018-02/2019
+location	experience	Beirut
+date	experience	08/2018-10/2018
+location	experience	Beirut
+date	experience	08/2015
+date	experience	07/2017
+date	experience	08/2017
+location	experience	Beirut
+date	others	04/2020
+where	others	Online
+date	others	2003-Present
+date	others	18 Years
