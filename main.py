@@ -7,13 +7,16 @@
 
 import resume_parser
 from parser_display import display_parsed_cv
+from parser_write import write_parsed_cv
 from utils_config import load_params
 import pandas as pd
 import numpy as np
 import pprint
 
 
-def main_resume(path):
+def main_resume(path_pdf):
+    path = path_pdf.split(".")[0] + ".txt"
+    print(path)
     #path = path_pdf.split(".")[0] + ".pdf"
     # get the right data structure
     list_resume = resume_parser.get_format_res(path)
@@ -65,6 +68,7 @@ df_dict = df_dict.replace(np.nan, '', regex=True)
 
 
 display_parsed_cv(output_dict)
+write_parsed_cv(output_dict)
 
 
 # the code below was intended to print the dictionary using html
