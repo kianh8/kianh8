@@ -1,7 +1,7 @@
 def write_personal(dict_res, f):
     f.write("Personal informations: \n -------------------- \n")
     for key, value in dict_res.items():
-        f.write(key + ':', value)
+        f.write(key + ':' + value + "\n")
     f.write("--" * 10 + "\n")
 
 
@@ -13,7 +13,7 @@ def write_experience(dict_res, f):
         f.write("Time working: {} \n".format(exp_item["date"]))
         f.write("Location: {} \n".format(exp_item["location"]))
         for item in exp_item["content"]:
-            f.write("Achivements: {} \n".format(item))
+            f.write("Achivements: {} \n".format(item[1:]))
         f.write("--" * 10 + "\n")
 
 
@@ -25,21 +25,21 @@ def write_education(dict_res, f):
         f.write("Time working: {} \n".format(exp_item["date"]))
         f.write("Location: {} \n".format(exp_item["location"]))
         for item in exp_item["content"]:
-            f.write("Achivements: {} \n".format(item))
+            f.write("Achivements: {} \n".format(item[1:]))
         f.write("--" * 10 + "\n")
 
 
 def write_skills(dict_res, f):
     f.write("Skills: \n --------------------\n")
     for item in dict_res["content"]:
-        f.write("Skill: {}".format(item))
+        f.write("Skill: {} \n".format(item))
     f.write("--" * 10 + "\n")
 
 
 def write_languages(dict_res, f):
     f.write("Languages: \n --------------------\n")
     for item in dict_res["content"]:
-        f.write("Language: {}".format(item))
+        f.write("Language: {} \n".format(item))
     f.write("--" * 10 + "\n")
 
 
