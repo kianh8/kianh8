@@ -17,7 +17,6 @@ import pprint
 def main_resume(path_pdf):
     path = path_pdf.split(".")[0] + ".txt"
     print(path)
-    #path = path_pdf.split(".")[0] + ".pdf"
     # get the right data structure
     list_resume = resume_parser.get_format_res(path)
     # remove all headers
